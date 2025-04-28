@@ -21,7 +21,7 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 Идентификатор конференции: 788 2332 1031
 Код доступа: xNPV17
 
-Итоговый тест: https://forms.gle/4mz2Ji1PTJLpaSBHA
+Итоговый тест: [https://forms.gle/4mz2Ji1PTJLpaSBHA](https://forms.gle/SEPGEHyBYBuz7iqu8)
 
 |№|Название|Крайний срок|
 
