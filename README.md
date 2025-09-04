@@ -42,7 +42,7 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 
 # Полезные ссылки:
 
-Шаблон первой лабораторной работы: [https://github.com/UNN-ITMM-Software/mp2-lab1-set]
+Шаблон первой лабораторной работы: [[https://github.com/UNN-ITMM-Software/mp2-lab1-set](https://github.com/LebedevIlyaG/mp2-lab1-set)]
 
 Страница курса: [http://old.itmm.unn.ru/courses/algoritmy-i-struktury-dannyh]
 
