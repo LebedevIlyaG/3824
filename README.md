@@ -10,6 +10,7 @@
 
 # Практические занятия
 
+Настройка git на компьютерах в 338: git config --global http.proxy http://userName:password@proxy.unn.ru:8080
 
 Подключиться к конференции Zoom
 https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
