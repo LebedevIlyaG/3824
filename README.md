@@ -63,6 +63,10 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 Методичка по лабам (старые): [http://www.unn.ru/books/met_files/Pract_ADS.pdf]
 
 
+Методическое пособие по оформлению квалификационных и др. работ: [https://e-lib.unn.ru/MegaPro/Download/MObject/11006]
+﻿
+
+
 Информация о конкурсе проектов: [http://www.itmm.unn.ru/obuchenie/uchebnyj-process/konkurs-studencheskih-rabot/]
 
 Создание приложения Windows Forms на c++: https://vscode.ru/articles/windows-forms-cpp.html
