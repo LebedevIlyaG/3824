@@ -37,6 +37,8 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 
 22.10.2025 - Стек 1 - https://cloud.unn.ru/s/a26x5ZxcMW8sePn
 
+22.10.2025 - Стек 2 - https://cloud.unn.ru/s/TCDXR9DETX2qsdj
+
 # Полезные ссылки:
 
 Шаблон первой лабораторной работы: [https://github.com/LebedevIlyaG/mp2-lab1-set]
