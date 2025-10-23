@@ -35,21 +35,7 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 
 # Записи занятий
 
-07.10.2022 - Матрицы 1 - https://cloud.unn.ru/s/PppTgsXdEozYo5Q
-
-07.10.2022 - Матрицы 2 - https://cloud.unn.ru/s/ojjRkRKwx5eS34g
-
-09.12.2022 - Списки на массивах 1 - https://cloud.unn.ru/s/2QiwonG7pwwQ7Qx
-
-09.12.2022 - Списки на массивах 2 - https://cloud.unn.ru/s/Ai7JRaTPkc2poRQ
-
-09.12.2022 - Полиномы 1 - https://cloud.unn.ru/s/7oAjJ3a96J94Swo
-
-09.12.2022 - Полиномы 2 - https://cloud.unn.ru/s/mMwXpZatiBDx23d
-
-09.12.2022 - Полиномы 3 - https://cloud.unn.ru/s/xXy6cmXEiKQX3BS
-
-﻿Ilya Lebedev приглашает вас на запланированную конференцию: Zoom.
+22.10.2025 - Стек 1 - https://cloud.unn.ru/s/a26x5ZxcMW8sePn
 
 # Полезные ссылки:
 
