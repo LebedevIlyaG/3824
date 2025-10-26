@@ -20,7 +20,7 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 
 Тест: https://forms.gle/dDzVN5Vyy3YY1jRG8
 
-## Семестр 3
+### Семестр 3
 
 |№|Название|Крайний срок|
 |-------------|-------------|-------------|
@@ -33,7 +33,7 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 |7|Арифметика|14.12.2025|
 |8|Очередь процессов|28.12.2025|
 
-## Семестр 4
+### Семестр 4
 
 |№|Название|Крайний срок|
 |-------------|-------------|-------------|
@@ -48,6 +48,10 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 22.10.2025 - Стек 1 - https://cloud.unn.ru/s/a26x5ZxcMW8sePn
 
 22.10.2025 - Стек 2 - https://cloud.unn.ru/s/TCDXR9DETX2qsdj
+
+24.10.2025 - Мультистек 1 - https://cloud.unn.ru/s/iTBABmLJikNYbRg
+
+24.10.2025 - Мультистек 2 - https://cloud.unn.ru/s/TipP8BrAwS3j5Mt
 
 # Полезные ссылки:
 
