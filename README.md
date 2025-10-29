@@ -31,7 +31,7 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 |5|N-стеков (на общей памяти)|16.11.2025|
 |6|Список (на двух массивах, на указателях)|30.11.2025|
 |7|Арифметика|14.12.2025|
-|8|Очередь процессов|28.12.2025|
+|8|Очередь процессов (Самостоятельная работа)|28.12.2025|
 
 ### Семестр 4
 
@@ -52,6 +52,10 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 24.10.2025 - Мультистек 1 - https://cloud.unn.ru/s/iTBABmLJikNYbRg
 
 24.10.2025 - Мультистек 2 - https://cloud.unn.ru/s/TipP8BrAwS3j5Mt
+
+24.10.2025 - Мультистек 3 - https://cloud.unn.ru/s/BZj47xmQpjX5bar
+
+24.10.2025 - Мультистек 4 - https://cloud.unn.ru/s/DtJEMHbBy6HzACr
 
 # Полезные ссылки:
 
