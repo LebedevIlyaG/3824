@@ -57,6 +57,12 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 
 24.10.2025 - Мультистек 4 - https://cloud.unn.ru/s/DtJEMHbBy6HzACr
 
+31.10.205 - C++ 1 - https://cloud.unn.ru/s/rB8emGKiZLEk7Wg
+
+31.10.205 - C++ 2 - https://cloud.unn.ru/s/SzP5Ja6zw32LbYG
+
+31.10.205 - C++ 3 - https://cloud.unn.ru/s/NfL6dWJgxrZqDLB
+
 # Полезные ссылки:
 
 Шаблон первой лабораторной работы: [https://github.com/LebedevIlyaG/mp2-lab1-set]
